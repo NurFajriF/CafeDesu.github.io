@@ -201,11 +201,12 @@ html{
 
 
 .footer{
-    position:relative; 
+    position:absolute; 
     right: 0;
     bottom:0;
     left:0;
     margin-bottom: 0;
+    width: 100;
 }
 
 .footer .box-container{
